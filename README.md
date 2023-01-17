@@ -1,5 +1,5 @@
 # gmail-template-arabic
-You can used this template for phishing gmail      قالب جيميل يمكنك استعالة لتصيّد
+You can used this template for phishing gmail      قالب جيميل يمكنك استعماله للتصيّد
 
 Meaning of templet ---> Blocking a login attempt
 
